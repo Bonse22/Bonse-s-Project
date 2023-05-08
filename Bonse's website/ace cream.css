@@ -1,0 +1,29 @@
+.container{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+.nav{
+    height: 100vh;
+    background-color: brown;
+    width: 20vw;
+    position: relative;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-content: center;
+
+}
+
+.content{
+    font-family: 'Beau Rivage', cursive;
+    font-size: x-large;
+    height: 100vh;
+    width: 60vw;
+    background-color: #fff;
+}
+
+
+
